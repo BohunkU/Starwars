@@ -1,7 +1,7 @@
 import { people } from './people.js';
 import { starships } from './starships.js';
 import { films } from './films.js';
-import { getLastNumber, removeChildren } from '../scripts/utils.js'
+import { getLastNumber, removeChildren } from '../page/utils.js'
 
 // console.log(starships[0])
 
